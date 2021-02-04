@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "'/Recria-o-Mercado-Livre' /static/js/main.ebf6d510.chunk.js",
-    "main.js.map": "'/Recria-o-Mercado-Livre' /static/js/main.ebf6d510.chunk.js.map",
-    "runtime-main.js": "'/Recria-o-Mercado-Livre' /static/js/runtime-main.2cc4a43f.js",
-    "runtime-main.js.map": "'/Recria-o-Mercado-Livre' /static/js/runtime-main.2cc4a43f.js.map",
-    "static/js/2.84f8af87.chunk.js": "'/Recria-o-Mercado-Livre' /static/js/2.84f8af87.chunk.js",
-    "static/js/2.84f8af87.chunk.js.map": "'/Recria-o-Mercado-Livre' /static/js/2.84f8af87.chunk.js.map",
-    "index.html": "'/Recria-o-Mercado-Livre' /index.html",
-    "precache-manifest.706861be9b88443f512e551d12bd5d62.js": "'/Recria-o-Mercado-Livre' /precache-manifest.706861be9b88443f512e551d12bd5d62.js",
-    "service-worker.js": "'/Recria-o-Mercado-Livre' /service-worker.js",
-    "static/js/2.84f8af87.chunk.js.LICENSE.txt": "'/Recria-o-Mercado-Livre' /static/js/2.84f8af87.chunk.js.LICENSE.txt",
-    "static/media/tshirt.png": "'/Recria-o-Mercado-Livre' /static/media/tshirt.7df03694.png"
+    "main.js": "/Recria-o-Mercado-Livre /static/js/main.ebf6d510.chunk.js",
+    "main.js.map": "/Recria-o-Mercado-Livre /static/js/main.ebf6d510.chunk.js.map",
+    "runtime-main.js": "/Recria-o-Mercado-Livre /static/js/runtime-main.a595488c.js",
+    "runtime-main.js.map": "/Recria-o-Mercado-Livre /static/js/runtime-main.a595488c.js.map",
+    "static/js/2.f52f6f44.chunk.js": "/Recria-o-Mercado-Livre /static/js/2.f52f6f44.chunk.js",
+    "static/js/2.f52f6f44.chunk.js.map": "/Recria-o-Mercado-Livre /static/js/2.f52f6f44.chunk.js.map",
+    "index.html": "/Recria-o-Mercado-Livre /index.html",
+    "precache-manifest.ca8476f0eabff1c41155811799a5741e.js": "/Recria-o-Mercado-Livre /precache-manifest.ca8476f0eabff1c41155811799a5741e.js",
+    "service-worker.js": "/Recria-o-Mercado-Livre /service-worker.js",
+    "static/js/2.f52f6f44.chunk.js.LICENSE.txt": "/Recria-o-Mercado-Livre /static/js/2.f52f6f44.chunk.js.LICENSE.txt",
+    "static/media/tshirt.png": "/Recria-o-Mercado-Livre /static/media/tshirt.7df03694.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2cc4a43f.js",
-    "static/js/2.84f8af87.chunk.js",
+    "static/js/runtime-main.a595488c.js",
+    "static/js/2.f52f6f44.chunk.js",
     "static/js/main.ebf6d510.chunk.js"
   ]
 }
