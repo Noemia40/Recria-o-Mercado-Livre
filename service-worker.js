@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Recria-o-Mercado-Livre /precache-manifest.ca8476f0eabff1c41155811799a5741e.js"
+  "'/Recria-o-Mercado-Livre' /precache-manifest.706861be9b88443f512e551d12bd5d62.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Recria-o-Mercado-Livre /index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("'/Recria-o-Mercado-Livre' /index.html"), {
   
   blacklist: [/^\/_/,/\/[^\/?]+\.[^\/]+$/],
 });
